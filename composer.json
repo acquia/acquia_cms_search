@@ -13,6 +13,10 @@
         "drupal/search_api": "1.23",
         "drupal/search_api_autocomplete": "^1.6"
     },
+    "require-dev": {
+        "axelerant/drupal-quality-checker": "^1.1",
+        "phpspec/prophecy-phpunit": "^2.0"
+    },
     "config": {
         "allow-plugins": {
             "composer/installers": true,
